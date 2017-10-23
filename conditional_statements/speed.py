@@ -1,1 +1,0 @@
-# this task calculates speed\
