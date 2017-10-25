@@ -1,4 +1,6 @@
 grade = float(input())
 
 if grade >= 5.5:
-    print('Excellent!')
+    print("Excellent!")
+else:
+    print("Not excellent.")
