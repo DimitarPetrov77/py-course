@@ -6,6 +6,7 @@ for letter in range(0,wordLenght):
     if currentLetter == 'a':
         sum += 1
     elif currentLetter == 'e':
+        
         sum += 2
     elif currentLetter == 'i':
         sum += 3
